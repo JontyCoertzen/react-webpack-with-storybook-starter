@@ -5,7 +5,7 @@ import Container from "../../wrappers/Container";
 const Index: React.FC = () => {
   return (
     <Container>
-      <Heading size={1}>Home</Heading>
+      <Heading size={1}>Home 2</Heading>
     </Container>
   );
 };
